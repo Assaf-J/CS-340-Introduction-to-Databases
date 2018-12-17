@@ -1,7 +1,7 @@
 {
-  "name": "baking-website",
+  "name": "hospital-website",
   "version": "1.0.0",
-  "description": "baking website",
+  "description": "hospital database website",
   "main": "Database.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
