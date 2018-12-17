@@ -1,1 +1,1 @@
-# CS290-Server-Side-Examples
+# CS340 Introduction to Databases -Hospital Database Website
